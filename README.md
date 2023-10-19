@@ -1,8 +1,14 @@
-# React + Vite
+# PictoRealm
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Unsplash clone developed with React🚀 and Unsplash API
 
-Currently, two official plugins are available:
+### Technology Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**
+  - **Material-UI** - Icons and Prebuilt Components
+  - **react-router-dom** - To manage routing between different pages
+- **Netlify** (Hosting service)
+
+### Preview
+
+<img src="./public/preview.gif" />
