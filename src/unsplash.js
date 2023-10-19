@@ -1,6 +1,6 @@
 const BASE_URL = `https://api.unsplash.com`;
 const API_KEY = import.meta.env.VITE_APP_ACCESS_KEY;
-console.log(API_KEY);
+// console.log(API_KEY);
 const COUNT = 30;
 
 export function getRandomImages() {
